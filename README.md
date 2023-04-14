@@ -50,7 +50,7 @@
 </a>
 
 <a href="https://public.tableau.com/app/discover" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/perskii/Icons/a328fcae1a084d29b07335afdfe01e7849307659/tableau-logo.svg?token=AUUP5HASU6VUX2RXBJ3CVMDEHFZ7K" 
+     <img src="https://raw.githubusercontent.com/perskii/Icons/7868ef04a47e20ff557be58ed5d0d963e93f1e52/tableau-software%20(1).svg?token=AUUP5HCXII52SY5HFEGJLMDEHF2NI" 
           alt="tableau" width="40" height="40"/> 
 </a>
 <br>
