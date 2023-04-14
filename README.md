@@ -26,10 +26,6 @@
           alt="mongodb" width="40" height="40"/> 
 </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
-           alt="mysql" width="40" height="40"/> 
-</a>
 <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" 
            alt="csharp" width="40" height="40"/> 
