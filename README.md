@@ -40,14 +40,11 @@
           alt="excel" width="40" height="40"/> 
 </a>
 
-<a href="https://powerbi.microsoft.com/pl-pl/desktop/" target="_blank" rel="noreferrer"> 
-     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-BI.svg" 
-          alt="powerbi" width="40" height="40"/> 
-
 <a href="https://public.tableau.com/app/discover" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/perskii/Icons/9b2280fdcac883f20291cf8e27ddb6f371310358/tableau-icon.svg?token=AUUP5HBO2REZK2NVMSWLEX3EHF3VK" 
           alt="tableau" width="40" height="40"/> 
 </a>
+
 <br>
 <h4>I am learning these things</h4>
 
@@ -68,6 +65,11 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
           alt="mysql" width="40" height="40"/> 
+</a>
+
+<a href="https://powerbi.microsoft.com/pl-pl/desktop/" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-BI.svg" 
+          alt="powerbi" width="40" height="40"/>
 </a>
 
 <h4>Also know a tiny bit about these</h4>
