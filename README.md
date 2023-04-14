@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hi👋, I'm Damian</h1>
-<h3 align="center">A junior data analyst from Poland</h3>
+<!---<h3 align="center">A junior data analyst from Poland</h3> -->
 
-<h5 align="center">🔭 I’m currently looking for a analytics job</h5>
+<h3 align="center">🔭 I’m currently looking for a analytics job</h3>
 
 <h4>Languages, technologies and tools i know </h4>
 
