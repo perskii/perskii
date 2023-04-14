@@ -40,7 +40,7 @@
           alt="excel" width="40" height="40"/> 
 </a>
 
-<a href="https://public.tableau.com/app/discover" target="_blank" rel="noreferrer"> 
+<a href="https://public.tableau.com" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/perskii/Icons/9b2280fdcac883f20291cf8e27ddb6f371310358/tableau-icon.svg?token=AUUP5HBO2REZK2NVMSWLEX3EHF3VK" 
           alt="tableau" width="40" height="40"/> 
 </a>
