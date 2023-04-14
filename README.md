@@ -34,16 +34,25 @@
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" 
            alt="css3" width="40" height="40"/> 
 </a>
+
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/sempostma/office365-icons/4ef2ee3dc5705f4ab23bc5fc7f236884d0bc10f3/svg/excel.svg" 
           alt="html5" width="40" height="40"/> 
 </a>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
      <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/a3ca9ab3f109ea86b3f48844c0a8666073176af2/SVG/Power-BI.svg" 
-          alt="git" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+          alt="git" width="40" height="40"/> 
+</a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+          alt="bootstrap" width="40" height="40"/> 
+</a>
+
+<a href="https://public.tableau.com/app/discover" target="_blank" rel="noreferrer"> 
+     <img src="https://raw.githubusercontent.com/perskii/Icons/a328fcae1a084d29b07335afdfe01e7849307659/tableau-logo.svg?token=AUUP5HASU6VUX2RXBJ3CVMDEHFZ7K" 
+          alt="tableau" width="40" height="40"/> 
+</a>
 <br>
 <h4>I am learning these things</h4>
 
