@@ -60,7 +60,7 @@
           
 
 <br>
-<h4>Right now I'm learning 🎯 these things</h4>
+<h4>Right now I'm (still) learning these things 🎯</h4>
 
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"
