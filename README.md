@@ -52,12 +52,13 @@
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-          alt="VSC" width="40" height="40"/> 
+          alt="git" width="40" height="40"/> 
 </a>
 
-
-            
-          
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  
+          alt="html" width="40" height="40"/> 
+</a>
 
 <br>
 <h4>Right now I'm (still) learning these things 🎯</h4>
@@ -113,7 +114,19 @@
           alt="VS" width="40" height="40"/> 
 </a>
 
+<a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"
+          alt="unity" width="40" height="40"/> 
+</a>
 
+<a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
+          alt="dotnet" width="40" height="40"/> 
+</a>
+            
+            
+          
+          
 
             
           
