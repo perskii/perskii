@@ -60,6 +60,11 @@
           alt="html" width="40" height="40"/> 
 </a>
 
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
+          alt="VS" width="40" height="40"/> 
+</a>
+
 <br>
 <h4>Right now I'm (still) learning these things 🎯</h4>
 
@@ -121,11 +126,6 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" 
           alt="spring" width="40" height="40"/> 
-</a>
-
-<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
-          alt="VS" width="40" height="40"/> 
 </a>
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
