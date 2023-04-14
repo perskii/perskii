@@ -6,9 +6,14 @@
 
 <h4>Languages, technologies and tools i know </h4>
 
-<a href="https://www.kaggle.com" target="_blank" rel="noreferrer"> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
-          alt="kaggle" width="40" height="40"/>
+          alt="python" width="40" height="40"/>
+</a> 
+
+<a href="https://www.kaggle.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg"
+           alt="kaggle" width="40" height="40"/>
 </a> 
 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
