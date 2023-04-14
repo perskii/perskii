@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Damian</h1>
+<h1 align="center"> Hi👋, I'm Damian</h1>
 <h3 align="center">A junior data analyst from Poland</h3>
 
 <h5 align="center">🔭 I’m currently looking for a analytics job</h5>
