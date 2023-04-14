@@ -87,6 +87,20 @@
           alt="powerbi" width="40" height="40"/>
 </a>
 
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" 
+          alt="jupyter" width="40" height="40"/>
+</a>
+
+<a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg"  
+          alt="anaconda" width="40" height="40"/>
+</a>
+
+        
+            
+              
+          
 <h4>Also know a tiny bit about these</h4>
      
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -123,7 +137,19 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" 
           alt="dotnet" width="40" height="40"/> 
 </a>
+
+<a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"  
+          alt="canva" width="40" height="40"/> 
+</a>         
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"   
+          alt="css3" width="40" height="40"/> 
+</a>       
+      
             
+              
             
           
           
