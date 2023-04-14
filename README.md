@@ -4,7 +4,7 @@
 
 <h5 align="center">🔭 I’m currently looking for a analytics job</h5>
 
-<h3 align="center">Languages, technologies and tools i know </h3>
+<h4>Languages, technologies and tools i know </h4>
 
 <a href="https://www.kaggle.com" target="_blank" rel="noreferrer"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" 
@@ -44,6 +44,20 @@
      <img src="https://raw.githubusercontent.com/perskii/Icons/9b2280fdcac883f20291cf8e27ddb6f371310358/tableau-icon.svg?token=AUUP5HBO2REZK2NVMSWLEX3EHF3VK" 
           alt="tableau" width="40" height="40"/> 
 </a>
+
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+          alt="VSC" width="40" height="40"/> 
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+          alt="VSC" width="40" height="40"/> 
+</a>
+
+
+            
+          
 
 <br>
 <h4>Right now I'm learning 🎯 these things</h4>
@@ -94,5 +108,12 @@
           alt="spring" width="40" height="40"/> 
 </a>
 
-</p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=perskii&show_icons=true&locale=en&layout=compact" alt="perskii" /></p>  
+<a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" 
+          alt="VS" width="40" height="40"/> 
+</a>
+
+
+
+            
+          
